@@ -2,3 +2,6 @@
 
 This repository is going to have all the materials and codes that I'm going to write from my studies of Deep Learning Book by I. Goodfellow, Y. Bengio and A. Courville.
 
+### Chapter 01: Introduction
+
+### Chapter 02: Linear Algebra
